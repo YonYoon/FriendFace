@@ -11,6 +11,8 @@
 		153C20382B5A4E4D0046A981 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153C20372B5A4E4D0046A981 /* ContentView.swift */; };
 		153C203A2B5A4E4F0046A981 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 153C20392B5A4E4F0046A981 /* Assets.xcassets */; };
 		153C203D2B5A4E4F0046A981 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 153C203C2B5A4E4F0046A981 /* Preview Assets.xcassets */; };
+		153C20442B5A4E7C0046A981 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153C20432B5A4E7C0046A981 /* User.swift */; };
+		153C20462B5A4ED90046A981 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153C20452B5A4ED90046A981 /* Friend.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		153C20372B5A4E4D0046A981 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		153C20392B5A4E4F0046A981 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		153C203C2B5A4E4F0046A981 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		153C20432B5A4E7C0046A981 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		153C20452B5A4ED90046A981 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				153C20352B5A4E4D0046A981 /* FriendFaceApp.swift */,
 				153C20372B5A4E4D0046A981 /* ContentView.swift */,
+				153C20432B5A4E7C0046A981 /* User.swift */,
+				153C20452B5A4ED90046A981 /* Friend.swift */,
 				153C20392B5A4E4F0046A981 /* Assets.xcassets */,
 				153C203B2B5A4E4F0046A981 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				153C20382B5A4E4D0046A981 /* ContentView.swift in Sources */,
 				153C20362B5A4E4D0046A981 /* FriendFaceApp.swift in Sources */,
+				153C20442B5A4E7C0046A981 /* User.swift in Sources */,
+				153C20462B5A4ED90046A981 /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
