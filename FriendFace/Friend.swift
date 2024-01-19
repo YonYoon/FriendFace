@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+class Friend: Codable {
+    let id: String
+    let name: String
+}
